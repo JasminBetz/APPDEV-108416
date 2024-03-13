@@ -5,44 +5,45 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers. </p>
 
+![python logo](https://www.python.org/static/img/python-logo@2x.png)
+
 ## Why Python is Popular
 <p>Python is a popular programming language for many reasons. Some of the key features that make
 it so attractive to programmers include: </p>
 
-**• Easy to learn:** Python has a simple, easy-to-read syntax that is perfect for beginners. The
+<ul>
+<li> <strong>Easy to learn: </strong> Python has a simple, easy-to-read syntax that is perfect for beginners. The
 language is designed to be intuitive and easy to understand, so even those with no
-programming experience can start coding quickly.
+programming experience can start coding quickly. </li>
+<li> <strong>Versatile: </strong> Python is a versatile language that can be used for a wide range of applications,
+including web development, data science, artificial intelligence, and more. </li>
 
-**• Versatile:** Python is a versatile language that can be used for a wide range of applications,
-including web development, data science, artificial intelligence, and more.
-
-**• Large community:** Python has a large and active community of developers who contribute to
+<li> <strong>Large community: </strong>  Python has a large and active community of developers who contribute to
 the language and its many libraries. This means that there is a wealth of resources and support
-available for those who want to learn and use Python.
+available for those who want to learn and use Python. </li>
 
-**• Open source:** Python is open-source software, which means that it is free to use and
+<li> <strong>Open source: </strong>  Python is open-source software, which means that it is free to use and
 distribute. This makes it an ideal choice for those who want to create and share their own
-projects without incurring any costs.
+projects without incurring any costs. </li>
+</ul>
 
 ## Applications of Python
 Python is widely used in many different fields, such as:
-1. Web Development: Python is often used as the backend language for web applications,
-thanks to its powerful libraries such as Django and Flask.
-
-2. Data Science and Machine Learning: Python has a wide range of powerful libraries, such as
+<ol>
+  <li> <strong>Web Development: </strong>  Python is often used as the backend language for web applications,
+thanks to its powerful libraries such as Django and Flask.</li>
+  <li> <strong>Data Science and Machine Learning: </strong> Python has a wide range of powerful libraries, such as
 NumPy, Pandas, and Scikit-learn, which make it easy to perform data analysis and machine
-learning tasks.
-
-3. Artificial Intelligence and Robotics: Python libraries such as TensorFlow and Keras make it
+learning tasks.</li>
+  <li> <strong>Artificial Intelligence and Robotics: </strong> Python libraries such as TensorFlow and Keras make it
 easy to build and train neural networks, allowing developers to create intelligent systems that
-can learn and make decisions.
-
-4. Finance, Education, and Gaming: Many organizations use Python for tasks such as
-automating financial transactions, creating educational software, and building games.
-
-5. GIS: Python is a widely used programming language in the field of Geographic Information
-Systems (GIS), it is commonly used to automate repetitive tasks, perform complex analyses,
-and create custom tools for working with GIS data.
+can learn and make decisions.</li>
+  <li> <strong>Finance, Education, and Gaming: </strong> Many organizations use Python for tasks such as
+automating financial transactions, creating educational software, and building games.</li>
+  <li> <strong>GIS: </strong> Python is a widely used programming language in the field of Geographic Information
+  Systems (GIS), it is commonly used to automate repetitive tasks, perform complex analyses,
+  and create custom tools for working with GIS data. </li>
+</ol>
 
 ## Getting Started with Python
 To get started with Python, you will need to download and install the Python software. You can
@@ -76,7 +77,7 @@ greet("John")
 ```
 When the code is run, it will print "Hello, John".
 
-## Built-in Functions
+### Built-in Functions
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
 as:
 
@@ -95,34 +96,21 @@ Its simple, easy-to-read syntax makes it an ideal choice for beginners and exper
 large community of developers ensures that there is always support and resources available. With
 a wide range of libraries available for different tasks, Python is a versatile choice for any
 programmer.
+
 As the famous computer scientist, Guido van Rossum, the creator of Python, said:
-Python is an easy-to-use programming language for people who want to express concepts in
+
+> Python is an easy-to-use programming language for people who want to express concepts in
 code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's
 why I love it.
-Resources
+
+## Resources
 Here are some helpful resources for learning more about Python:
-• Python.org - The official website for Python, with a wealth of information and resources for
+
+• [Python.org](python.org) - The official website for Python, with a wealth of information and resources for
 learning the language.
-• Python for Data Science Handbook - A free online book that provides a comprehensive
+
+• [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive
 introduction
-Article content is generated using ChatGPT.
-You do not have to replicate this box and its content! The article uses following Markdown
-features/syntax/formatting:
-• Bold, Italic
-• Inline code
-• Code blocks (extended syntax)
-• Table (extended syntax)
-• Block quotes
-• Unordered and ordered list
-• Headings (1, 2, 3)
-• Links, image
-• Horizontal line
-Resources needed to replicate the article formatting:
-• https://www.python.org/downloads (URL)
-• https://www.python.org (URL)
-• https://jakevdp.github.io/PythonDataScienceHandbook (URL)
-• https://www.python.org/static/img/python-logo@2x.png (Image)
-Note: Don't worry if your Markdown processor/editor is using a different font, font size,
-background, color, and/or heading decoration.
-The syntax used in your submission is primary graded based on the Markdown file. This PDF is
-generated using Markdown with md2pdf.
+
+*Article content is generated using ChatGPT.*
+
