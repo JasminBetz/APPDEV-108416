@@ -1,2 +1,3 @@
-# Application Development Assignment A
-<p>Submit-ted by 108416 </p>
+# APPDEV-108416
+Application Development Assignment A
+Lorem ipsum dolor sit amet.
