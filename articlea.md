@@ -17,11 +17,9 @@ language is designed to be intuitive and easy to understand, so even those with 
 programming experience can start coding quickly. </li>
 <li> <strong>Versatile: </strong> Python is a versatile language that can be used for a wide range of applications,
 including web development, data science, artificial intelligence, and more. </li>
-
 <li> <strong>Large community: </strong>  Python has a large and active community of developers who contribute to
 the language and its many libraries. This means that there is a wealth of resources and support
 available for those who want to learn and use Python. </li>
-
 <li> <strong>Open source: </strong>  Python is open-source software, which means that it is free to use and
 distribute. This makes it an ideal choice for those who want to create and share their own
 projects without incurring any costs. </li>
@@ -47,7 +45,7 @@ automating financial transactions, creating educational software, and building g
 
 ## Getting Started with Python
 To get started with Python, you will need to download and install the Python software. You can
-download the latest version of Python from the [official Python website](https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
+download the latest version of Python from the official [Python website](https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
 
 To write code in Python, you can use any text editor or integrated development environment (IDE).
 Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio
@@ -72,7 +70,8 @@ function is executed when the function is called.
 For example, the following code defines a function called greet that prints a message:
 ```
 def greet(name):
-print(f"Hello, {name}")
+    print(f"Hello, {name}")
+    
 greet("John")
 ```
 When the code is run, it will print "Hello, John".
